@@ -11,7 +11,7 @@ import java.util.Map;
 @RequestMapping("/")
 public class BfhlController {
     
-    private static final String OFFICIAL_EMAIL = "your.email@chitkara.edu.in";
+    private static final String OFFICIAL_EMAIL = "pranjan0854.be23@chitkara.edu.in";
     
     @Autowired
     private BfhlService service;
